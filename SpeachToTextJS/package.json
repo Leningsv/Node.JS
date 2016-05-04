@@ -1,0 +1,13 @@
+{
+  "name": "SpeachToTextJS",
+  "version": "0.0.0",
+  "description": "SpeachToTextJS",
+  "main": "server.js",
+  "author": {
+    "name": "Milton",
+    "email": ""
+  },
+  "dependencies": {
+    "watson-developer-cloud": "^1.4.1"
+  }
+}
